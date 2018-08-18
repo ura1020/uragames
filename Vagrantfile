@@ -3,7 +3,7 @@
 
 # Set for each project
 project = "uragames"
-ip = "192.168.33.20"
+ip = "192.168.33.21"
 
 hostname = project + ".dev"
 synced_folders = {

@@ -13,9 +13,9 @@ RUN yum install -y gcc-c++ make
 RUN yum install -y nodejs
 
 RUN npm install -g vue-cli
-RUN npm install -g serverless
 RUN npm install -g nuxt
 RUN npm install -g create-nuxt-app
+RUN npm install --save pixi.js stats.js underscore
 
 ENV HOST 0.0.0.0
 
