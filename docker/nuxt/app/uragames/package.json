@@ -15,7 +15,7 @@
     "nuxt": "^1.0.0",
     "pixi.js": "^4.8.1",
     "stats.js": "^0.17.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "ura1020-ulib": "0.0.1"
   },
   "devDependencies": {
