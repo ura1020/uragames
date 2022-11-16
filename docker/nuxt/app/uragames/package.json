@@ -12,7 +12,7 @@
     "deploy": "npm run build && sls deploy"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
+    "nuxt": "^2.15.8",
     "pixi.js": "^4.8.1",
     "stats.js": "^0.17.0",
     "underscore": "^1.9.1",
